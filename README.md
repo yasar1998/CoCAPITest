@@ -1,1 +1,1 @@
-# CoCAPITest
+# Clash of Clans API Test
